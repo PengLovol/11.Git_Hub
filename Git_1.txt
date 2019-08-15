@@ -306,6 +306,7 @@ git是github唯一指定的代码管理工具
 操作github仓库
   1.git remote 连接远程github仓库 如果需要输入密码输   入github密码即可
   2. 使用git push等操作远程仓库的方法操作即可
+建立连接可能遇到的问题：http://www.mamicode.com/info-detail-2716306.html
 
 
 
